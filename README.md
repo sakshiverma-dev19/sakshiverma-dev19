@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Sakshi Verma
 
-<!--
-**sakshiverma-dev19/sakshiverma-dev19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .NET Developer
 
-Here are some ideas to get you started:
+I am a .NET Developer with a Diploma in Information Technology, focused on building web applications using C# and ASP.NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies & Skills
+
+- C#
+- ASP.NET MVC
+- .NET Core
+- Entity Framework Core
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+### 🚀 Projects
+
+- Dona Pattal Roll – Business Website
+- Fast Food Web Application
+- Online Book Store
+- Student Management System
+- Furniture Store – Frontend Website
+- Blinkit Clone – Frontend Website
+
+
+### 🌱 Currently Learning
+
+- Advanced .NET Development
+- Web Application Development
+- Database Management
+- Bioinformatics
+
+### 📫 Connect With Me
+
+I am currently looking for .NET Developer opportunities.
+
+---
+
+⭐ Thanks for visiting my profile!
