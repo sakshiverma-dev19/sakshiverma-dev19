@@ -24,7 +24,12 @@ I am a .NET Developer with a Diploma in Information Technology, focused on build
 - Student Management System
 - Furniture Store – Frontend Website
 - Blinkit Clone – Frontend Website
+  
+### 💼 Experience
 
+- Software Developer Apprentice (.NET MVC) 
+- 8 Months Apprenticeship
+- Worked with ASP.NET MVC, C#, SQL Server and CRUD-based web development
 
 ### 🌱 Currently Learning
 
